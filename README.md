@@ -32,3 +32,5 @@ outros componentes gráficos. E VScode como ferramenta pois é possivel encontra
 Criar esse sistema foi algo desafiador para mim e uma experiência reveladora pois me mostrou que a linguagem Python é capaz de fazer
 tudo e um pouco mais.
 
+## 💡 Referência
+Desafio elaborado pelo Bootcamp Suzano - Python Developer da DIO
